@@ -1,5 +1,8 @@
 # test
+correct version
+This is a small paragraph in English with some errors. It tries to explain something simple, but the spelling is not totally correct, and a few words are misspelled on purpose.
 
+original
 This is a smal paragraf in English with some erors. It try to explain somthing simple, but the spelling is not totaly corect, and a few words are misspelled on purpos.
 
 本仓库用于说明什么是 README，以及一个 README 通常应当包含哪些内容。
